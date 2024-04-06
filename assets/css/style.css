@@ -9,3 +9,17 @@
     background-size: cover;
     background-position: left;
   }
+
+  .informacion{
+
+margin: 1%;
+display: flex;
+justify-content: center;
+width: 100%; 
+
+  }
+
+  .imagen{
+   background-position: center;
+
+  }
