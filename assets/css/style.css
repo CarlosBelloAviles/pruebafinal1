@@ -19,7 +19,11 @@ width: 100%;
 
   }
 
-  .imagen{
-   background-position: center;
 
-  }
+.seccion{
+    background-size: cover;
+    background-color: rgb(53, 52, 52);
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 5%;
+}
